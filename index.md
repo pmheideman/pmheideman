@@ -1,7 +1,7 @@
 ---
-title: "Home"
+title: "Dr. Paul Heideman"
 summary: "About this page."
-date: 2016-04-13
+date: 2020-09-01
 layout: default
 ---
 
