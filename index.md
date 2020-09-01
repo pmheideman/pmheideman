@@ -5,7 +5,7 @@ date: 2020-09-01
 layout: default
 ---
 
-A skeleton-site for a personal academic website, written in Jekyll for hosting with GitHub Pages.
+like some nine inch nails lyrics or something
 
 ## Features
 - Minimal, clean design
